@@ -1,0 +1,30 @@
+#map {
+    height: 500px;
+    width: 100%;
+    display: block;
+}
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+h1 { 
+    text-align: center;
+    padding-bottom: 30px;
+    color: darkslategray;
+    font-family: century gothic, sans-serif;
+    font-size: 50px
+}
+
+p{
+    text-align: center;
+    padding-bottom: 30px;
+    color: black;
+    font-family: century gothic, sans-serif;
+    font-size: 20px  
+}
+
+a{
+    color: gray;
+    font-style: italic;
+}

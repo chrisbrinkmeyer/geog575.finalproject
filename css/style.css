@@ -4,10 +4,6 @@
     display: block;
 }
 
-.leaflet-popup-content p {
-    margin: 0.2em 0;
-}
-
 h1 { 
     text-align: center;
     padding-bottom: 30px;
@@ -23,7 +19,18 @@ p{
     font-family: century gothic, sans-serif;
     font-size: 20px  
 }
-
+p1{
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+    background-color: black;
+    padding-right: 20px
+}
+p2{
+    color: white;
+    font-family: century gothic, sans-serif;
+    font-size: 20px;
+    background-color: black
+}
 a{
     color: gray;
     font-style: italic;
